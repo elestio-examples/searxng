@@ -13,5 +13,3 @@ Deploy Searxng with CI/CD on Elestio
 You can can open SearXNG UI here:
 
     URL: https://[CI_CD_DOMAIN]
-    Login: root
-    password: [ADMIN_PASSWORD]
