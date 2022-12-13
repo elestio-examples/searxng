@@ -9,7 +9,7 @@ ports:
     isAuth: false
 environments:
   - key: "DOMAIN"
-    value: "[DOMAIN]"
+    value: "[CI_CD_DOMAIN]"
 
 config:
   runTime: "dockerCompose"
