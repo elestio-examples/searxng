@@ -10,6 +10,6 @@ Deploy Searxng with CI/CD on Elestio
 
 # Once deployed ...
 
-You can can open SearXNG UI here:
+You can open SearXNG UI here:
 
     URL: https://[CI_CD_DOMAIN]
