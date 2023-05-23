@@ -87,9 +87,9 @@ Here are some example snippets to help you get started creating a container.
 
 ### Environment variables
 
-| Variable |   Value (example)   |
-| :------: | :-----------------: |
-|  DOMAIN  | https://your.domain |
+| Variable | Value (example) |
+| :------: | :-------------: |
+|  DOMAIN  |   your.domain   |
 
 # Maintenance
 
