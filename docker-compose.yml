@@ -15,7 +15,7 @@ services:
       - DAC_OVERRIDE
 
   searxng:
-    image: searxng/searxng:latest
+    image: elestio/searxng:latest
     restart: always
     ports:
       - "172.17.0.1:2468:8080"
